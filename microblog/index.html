@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style/index.css">
+</head>
+<body>
+    <div class="blog">
+        <div class="blog__header">
+            Microblog - count: <span class="count-js"></span>
+        </div>
+
+        <form class="blog__form form-js">
+            <div class="blog__inputs">
+                <label for="title">Title:</label><br>
+                <input type="text" name="title"><br>
+                <label for="description">Description:</label><br>
+                <input type="text" name="description"><br>
+            </div>
+            <input type="submit" value="Submit">
+        </form>
+
+        <div class="blog__post-success post-success-js">
+            Post added!
+        </div>
+
+        <div class="blog__posts posts-container-js">
+        </div>
+    </div>
+
+    <script src="./js/index.js"></script>
+</body>
+</html>

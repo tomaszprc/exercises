@@ -1,0 +1,26 @@
+[
+    {
+        "title": "First Example Article",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc a auctor lacus. Quisque bibendum quam tortor, vitae lacinia mauris congue eu. Donec nibh eros, volutpat nec eleifend sed, pulvinar in risus. Curabitur a pulvinar diam. ",
+        "vote": {
+            "plus": 5,
+            "minus": 3
+        }
+    },
+    {
+        "title": "Second Example Article",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc a auctor lacus. Quisque bibendum quam tortor, vitae lacinia mauris congue eu. Donec nibh eros, volutpat nec eleifend sed, pulvinar in risus. Curabitur a pulvinar diam. ",
+        "vote": {
+            "plus": 2,
+            "minus": 7
+        }
+    },
+    {
+        "title": "Third Example Article",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc a auctor lacus. Quisque bibendum quam tortor, vitae lacinia mauris congue eu. Donec nibh eros, volutpat nec eleifend sed, pulvinar in risus. Curabitur a pulvinar diam. ",
+        "vote": {
+            "plus": 3,
+            "minus": 5
+        }
+    }
+]
